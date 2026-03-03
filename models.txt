@@ -1,0 +1,5 @@
+Qwen/Qwen3-4B
+Qwen/Qwen3-8B
+google/gemma-3-4b-it
+openai/gpt-oss-20b
+openai/gpt-oss-120b
